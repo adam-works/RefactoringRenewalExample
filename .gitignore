@@ -1,0 +1,33 @@
+﻿# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Tt]emp/
+*.log
+*.pdb
+*.opendb
+
+# NuGet
+.nuget/
+packages/
+*.nupkg
+*.snupkg
+*.cache
+*.bak
+
+# Rider
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
